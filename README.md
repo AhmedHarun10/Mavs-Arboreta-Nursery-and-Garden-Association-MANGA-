@@ -48,5 +48,6 @@ A C++ application that assisted MANGA in converting their current management sys
 
 ## Dependencies
 <ul>
+   <li> C++ </li>
   <li> gtkmm </li>
 </ul>
