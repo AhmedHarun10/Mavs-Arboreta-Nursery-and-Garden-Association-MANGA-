@@ -8,7 +8,7 @@ A C++ application that assisted MANGA in converting their current management sys
   <li>Run the application using the command: **make**</li>
 </ol>
 
-## how to use Application
+## How to use Application
 <ul>
   <li>The navigation bar at the top of the screen will give you all of the options that you need</li>
   <li>Click on the desired option from the navigation bar and fill out the information asked and submit</li>
