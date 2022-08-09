@@ -1,7 +1,9 @@
 # Mavs-Arboreta-Nursery-and-Garden-Association-MANGA-
+
 A C++ application that assisted MANGA in converting their current management system to a computerize and more optimal system
 
 ## How to Run the app
+
 <ol>
   <li>Either fork or download the app and open the folder in the cli</li>
   <li>Install gtkmm</li>
@@ -9,6 +11,7 @@ A C++ application that assisted MANGA in converting their current management sys
 </ol>
 
 ## How to use Application
+
 <ul>
   <li>The navigation bar at the top of the screen will give you all of the options that you need</li>
   <li>Click on the desired option from the navigation bar and fill out the information asked and submit</li>
@@ -16,9 +19,10 @@ A C++ application that assisted MANGA in converting their current management sys
   </li> You can use the widgets displayed on each screen to either cancel or submit orders </li>
 </ul>
 
-
 ## Application Features
+
 ### MANGA employees are given following capabilities:
+
 <ul>
   <li>Creation of new data entry sheets for each day</li>
     <ul>
@@ -38,8 +42,8 @@ A C++ application that assisted MANGA in converting their current management sys
       </ul>
 </ul>
 
+## Future Features
 
-## Future  Features
 <ol>
   <li> Provide managers with ability to track and collect metrics on order processing </li>
   <li> Allow the application to notify employees about deprecated products so they can avoid selling them</li>
@@ -47,11 +51,13 @@ A C++ application that assisted MANGA in converting their current management sys
 </ol>
 
 ## Dependencies
+
 <ul>
    <li> C++ </li>
   <li> gtkmm </li>
 </ul>
 
 ## Application Screenshots
+
 ![Image](https://github.com/AhmedHarun10/Mavs-Arboreta-Nursery-and-Garden-Association-MANGA-/blob/main/P11/MANGA%20Screenshots/Manga%20Customer%20Screen.jpg?raw=true)
 ![Image](https://github.com/AhmedHarun10/Mavs-Arboreta-Nursery-and-Garden-Association-MANGA-/blob/main/P11/MANGA%20Screenshots/MANGA%20main%20Screen.jpg?raw=true)
