@@ -51,3 +51,7 @@ A C++ application that assisted MANGA in converting their current management sys
    <li> C++ </li>
   <li> gtkmm </li>
 </ul>
+
+## Application Screenshots
+![Image](https://github.com/AhmedHarun10/Mavs-Arboreta-Nursery-and-Garden-Association-MANGA-/blob/main/P11/MANGA%20Screenshots/Manga%20Customer%20Screen.jpg?raw=true)
+![Image](https://github.com/AhmedHarun10/Mavs-Arboreta-Nursery-and-Garden-Association-MANGA-/blob/main/P11/MANGA%20Screenshots/MANGA%20main%20Screen.jpg?raw=true)
